@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\VBDocument\bin\Debug\net8.0-windows\VBDocument.exe
+C:\Users\hp\Desktop\VBDocument\bin\Debug\net8.0-windows\VBDocument.deps.json
+C:\Users\hp\Desktop\VBDocument\bin\Debug\net8.0-windows\VBDocument.runtimeconfig.json
+C:\Users\hp\Desktop\VBDocument\bin\Debug\net8.0-windows\VBDocument.dll
+C:\Users\hp\Desktop\VBDocument\bin\Debug\net8.0-windows\VBDocument.pdb
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.objDemo.resources
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.welcomingForm.resources
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.AssemblyInfo.vb
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.dll
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\refint\VBDocument.dll
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.pdb
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\VBDocument.genruntimeconfig.cache
+C:\Users\hp\Desktop\VBDocument\obj\Debug\net8.0-windows\ref\VBDocument.dll
